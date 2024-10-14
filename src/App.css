@@ -1,0 +1,10 @@
+.main-container {
+  /* Optional, if you want padding for the whole container */
+  padding: 0;
+}
+
+.spacer {
+  height: 140px; /* Height of the colored space between sections */
+  background-color: #2b0166; /* Background color for the margin space */
+  border-radius: 100px; /* Optional: Rounded edges for the colored space */
+}
